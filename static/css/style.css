@@ -1,0 +1,62 @@
+body{
+font-family: Arial;
+background:#f4f6f9;
+margin:0;
+}
+
+.navbar{
+background:#007BFF;
+padding:15px;
+}
+
+.navbar a{
+color:white;
+margin-right:15px;
+text-decoration:none;
+}
+
+.container{
+width:900px;
+margin:auto;
+margin-top:40px;
+background:white;
+padding:30px;
+border-radius:6px;
+}
+
+.job-card{
+border:1px solid #ddd;
+padding:15px;
+margin-bottom:20px;
+}
+
+input,textarea,select{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button{
+background:#007BFF;
+color:white;
+border:none;
+padding:10px 15px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+table th,table td{
+border:1px solid #ddd;
+padding:10px;
+text-align:left;
+}
+
+.btn{
+background:#28a745;
+color:white;
+padding:8px 12px;
+text-decoration:none;
+}
